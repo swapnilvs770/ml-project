@@ -1,0 +1,12 @@
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor="#2ca02c"
+backgroundColor="#0e1117"
+secondaryBackgroundColor="#242832"
+textColor="#ffffff"
+font="sans serif"

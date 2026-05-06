@@ -1,0 +1,64 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Flask
+instance/
+.webassets-cache
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# SQLite database
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build files
+build/
+dist/
+
+# Machine Learning models (optional)
+# Uncomment if model files are very large
+# *.pkl
+# *.joblib
+
+# Temporary files
+*.tmp
+*.temp
+
+# Render
+.render/
+
+# Uploaded files
+uploads/
+
+# Cache
+.cache/
+
+# Testing
+.pytest_cache/
+
+# mypy
+.mypy_cache/
